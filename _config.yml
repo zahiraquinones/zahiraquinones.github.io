@@ -1,19 +1,19 @@
 # Site wide configuration
 
-title: Site Title
+title: Zahíra Quiñones Tavárez
 locale: en_US
 logo: # filename of a logo image that has been placed into your images directory
 
 # Enter the following platform usernames if you would like for them to appear on your site.
 owner:
-  name: Your Name
+  name: Zahíra Quiñones Tavárez
   avatar: bio-photo.jpg
-  bio: "A brief description of yourself."
-  email: #emailaddress
+  bio: "Second Year Doctorate Student Translational Biomedical Sciences"
+  email: zahira_quinonestavarez@urmc.rochester.edu
   # Do not include the @ symbol in your Twitter username
-  twitter: #username
+  twitter: zahiraquinones
   linkedin: #username
-  github: #username
+  github: zahiraquinones
   orcid: # ID Number (ex. 0000-0000-0000-0000)
   researchgate: #username
   mendeley: #username
